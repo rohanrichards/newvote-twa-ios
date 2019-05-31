@@ -1,0 +1,18 @@
+{
+    "name": "NewVote",
+    "short_name": "NewVote",
+    "theme_color": "#0277bd",
+    "background_color": "#0277bd",
+    "scope": "/",
+    "start_url": "https://uq.newvote.org/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://uq.newvote.org/assets/logo-no-text.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "lang": "",
+    "orientation": "portrait"
+}
